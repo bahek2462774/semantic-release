@@ -1,7 +1,7 @@
 {
   "name": "temp-test-semantic-release",
   "description": "TEST FORK: Automated semver compliant package publishing",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "module",
   "author": "",
   "ava": {
